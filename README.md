@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/JatasyaR">
+<img src="https://github.com/JatasyaR/JatasyaR/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/>
+</a>
